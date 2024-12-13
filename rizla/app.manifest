@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3">
+  <assemblyIdentity version="1.0.0.0" name="rizla.app" />
+  
+  <!-- Bu kısım uygulamanın yönetici haklarıyla çalışmasını sağlar -->
+  <requestedPrivileges>
+    <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+  </requestedPrivileges>
+  
+</assembly>
